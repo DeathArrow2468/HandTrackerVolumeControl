@@ -1,2 +1,2 @@
 # MNIST_Digit_Recognizer
-A hand tracking appplication that utilizes OpenCV and Mediapipe in order to control the system's volume.
+An application that can recognize hand-written numbers .where the neural network can be set-up by the user as an API-call.
